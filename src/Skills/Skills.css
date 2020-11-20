@@ -1,0 +1,71 @@
+.skills {
+    background-color: #f9f9f9;
+    padding: 90px 0 70px;
+}
+
+.btn-selector {
+    margin-left: 0 !important;
+    border: none;
+    background-color: #eaf2e3;
+    color: #0f5e6b;
+    letter-spacing: 0.15rem;
+    border-radius: 0;
+    padding: 24px 36px;
+    margin-bottom: 12px;
+}
+
+.btn-selector:hover {
+    background-color: #d8e7cb;
+}
+
+.btn-selector:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.btn-selector.active {
+    background-color: #6fcde9;
+    color: #ffffff;
+}
+
+.btn-selector.active:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.tech-list {
+    text-align: center;
+}
+
+.tech-list ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.tech-list p {
+    text-align: center;
+    letter-spacing: 0.1rem;
+    color: #0f5e6b;
+}
+
+.tech-list li {
+    color: #115d6d;
+    font-size: 1.2rem;
+    margin: 24px 0;
+    padding: 15px;
+}
+
+.tech-list img {
+    height: 42px;
+}
+
+@media (max-width: 575.98px) {
+    .btn-selector {
+        font-size: 0.85rem;
+        letter-spacing: 0.1rem;
+        border-radius: 0;
+        padding: 12px 18px;
+        margin-bottom: 12px;
+    }
+}
+

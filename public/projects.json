@@ -1,0 +1,242 @@
+[
+  {
+    "id": "YAVBE5H469",
+    "title": "Laskux",
+    "type": "personal",
+    "caption": "Mobile application for Laskux invoicing services.",
+    "description": "Laskux mobile application is made using React Native. It's published in Google Play and Apple Store and has active daily users. It communicates to Laskux API and handles over 80 HTTP-requests. You can send and receive invoices (e-invoices, paper-invoices, and email invoices) and manage your own customer- and product base. You can also add receipts, create offers, see sales reports, and much more.",
+    "technologies": ["React-Native", "Redux"],
+    "thumbnail": "./images/laskux/thumbnail.png",
+    "repository": {
+      "icon": "./images/icons/github-black.png",
+      "url": "https://github.com/lehtaku/laskux-mobile"
+    },
+    "images": [
+      {
+        "original": "./images/laskux/img-1.png"
+      },
+      {
+        "original": "./images/laskux/img-2.png"
+      },
+      {
+        "original": "./images/laskux/img-3.png"
+      },
+      {
+        "original": "./images/laskux/img-4.png"
+      },
+      {
+        "original": "./images/laskux/img-5.png"
+      },
+      {
+        "original": "./images/laskux/img-6.png"
+      },
+      {
+        "original": "./images/laskux/img-7.png"
+      },
+      {
+        "original": "./images/laskux/img-8.png"
+      },
+      {
+        "original": "./images/laskux/img-9.png"
+      },
+      {
+        "original": "./images/laskux/img-10.png"
+      },
+      {
+        "original": "./images/laskux/img-11.png"
+      },
+      {
+        "original": "./images/laskux/img-12.png"
+      },
+      {
+        "original": "./images/laskux/img-13.png"
+      },
+      {
+        "original": "./images/laskux/img-14.png"
+      },
+      {
+        "original": "./images/laskux/img-15.png"
+      },
+      {
+        "original": "./images/laskux/img-16.png"
+      },
+      {
+        "original": "./images/laskux/img-17.png"
+      },
+      {
+        "original": "./images/laskux/img-18.png"
+      },
+      {
+        "original": "./images/laskux/img-19.png"
+      },
+      {
+        "original": "./images/laskux/img-20.png"
+      }
+    ]
+  },
+  {
+    "id": "KAV7E5H467",
+    "title": "Admin Labs",
+    "type": "personal",
+    "caption": "Mobile user interface for AdminLabs website monitoring services.",
+    "description": "AdminLabs mobile application is made using Ionic 4 mobile framework. Ionic uses Angular so most of the functionality is based on Angular. Application is tested and works with both Android and iOS devices. Also Apple's deployment tools have become familiar within this project. Application data are based on AdminLabs API. I've been working with this project completely in my spare time.",
+    "technologies": ["Ionic 4", "Angular 7", "SQLite", "Highcharts"],
+    "thumbnail": "./images/adminlabs/thumbnail.png",
+    "repository": {
+      "icon": "./images/icons/github-black.png",
+      "url": "https://github.com/lehtaku/adminlabs-mobile"
+    },
+    "images": [
+      {
+        "original": "./images/adminlabs/img-1.png"
+      },
+      {
+        "original": "./images/adminlabs/img-2.png"
+      },
+      {
+        "original": "./images/adminlabs/img-3.png"
+      },
+      {
+        "original": "./images/adminlabs/img-4.png"
+      },
+      {
+        "original": "./images/adminlabs/img-5.png"
+      },
+      {
+        "original": "./images/adminlabs/img-6.png"
+      },
+      {
+        "original": "./images/adminlabs/img-7.png"
+      }
+    ]
+  },
+  {
+    "id": "J3BKUH25I3",
+    "title": "Wear-Right",
+    "caption": "Dressing recommendations for current weather and to your upcoming trips.",
+    "type": "school",
+    "description": "Wear Right is Software project and testing course project where we had a five person team and our goal was to produce a clothing recommendations application to Personal Design Hat. The application should work on every size device and it uses a content management system (CMS) to make keeping content up-to-date easier. User see clothing recommendations based on current location, address or map position. User also can plan trips and save favourite places to his/her account. I worked with back-end, front-end and server configurations during this project.",
+    "technologies": ["Angular", "Lumen", "Cockpit", "MySQL", "GitLab CI", "DigitalOcean"],
+    "thumbnail": "./images/wearright/thumbnail.png",
+    "repository": {
+      "icon": "./images/icons/gitlab.png",
+      "url": "https://gitlab.labranet.jamk.fi/team-e-2019"
+    },
+    "images": [
+      {
+        "original": "./images/wearright/img-1.png"
+      },
+      {
+        "original": "./images/wearright/img-2.png"
+      },
+      {
+        "original": "./images/wearright/img-3.png"
+      },
+      {
+        "original": "./images/wearright/img-4.png"
+      },
+      {
+        "original": "./images/wearright/img-5.png"
+      },
+      {
+        "original": "./images/wearright/img-6.png"
+      },
+      {
+        "original": "./images/wearright/img-7.png"
+      },
+      {
+        "original": "./images/wearright/img-8.png"
+      },
+      {
+        "original": "./images/wearright/img-9.png"
+      },
+      {
+        "original": "./images/wearright/img-10.png"
+      },
+      {
+        "original": "./images/wearright/img-11.png"
+      },
+      {
+        "original": "./images/wearright/img-12.png"
+      }
+    ]
+  },
+  {
+    "id": "83IMYBSICT",
+    "title": "Music Bot for Discord",
+    "type": "personal",
+    "caption": "Streaming music from YouTube to Discord voice channel.",
+    "description": "I use Discord a lot and our old bot missed a lot of features I would like to have. So I decided to make my own and learn some Node.js at same time. Bot is running in DigitalOcean Ubuntu virtual machine. Bot gets music from YouTube API and allows you to search, play and queue music with basic music player functionality of course. I've been working with this project completely in my spare time.",
+    "technologies": ["Node.js", "Discord.js (Discord API module)", "DigitalOcean virtual machine"],
+    "thumbnail": "./images/huilistibot/thumbnail.png",
+    "repository": {
+      "icon": "./images/icons/github-black.png",
+      "url": "https://github.com/lehtaku/discord-bot"
+    },
+    "images": [
+      {
+        "original": "./images/huilistibot/img-1.png"
+      },
+      {
+        "original": "./images/huilistibot/img-2.png"
+      },
+      {
+        "original": "./images/huilistibot/img-3.png"
+      }
+    ]
+  },
+  {
+    "id": "PUYBAMOK5Q",
+    "title": "Movie App",
+    "type": "school",
+    "caption": "Search movies and series from public movie database and create your own playlists.",
+    "description": "MovieApp is a final assignment of two web programming courses that we made with my classmate. There you can create your own profile, search movies from Open Movie database, create own playlist from your favourite movies and mark them as watched. Application gets 10 last uploaded videos from IMDb's YouTube channel and lists them in front page. It also lists videos that are favourite listed most often. More details can be found from the GitHub repository. I mostly worked with backend development and other server-side things in this project.",
+    "technologies": ["Angular", "Laravel", "JSON Web Token Authentication (JWT)", "MySQL", "CentOS Virtual Machine"],
+    "thumbnail": "./images/movieapp/thumbnail.png",
+    "repository": {
+      "icon": "./images/icons/github-black.png",
+      "url": "https://github.com/lehtaku/movie-app"
+    },
+    "images": [
+      {
+        "original": "./images/movieapp/img-1.png"
+      },
+      {
+        "original": "./images/movieapp/img-2.png"
+      },
+      {
+        "original": "./images/movieapp/img-3.png"
+      },
+      {
+        "original": "./images/movieapp/img-4.png"
+      }
+    ]
+  },
+  {
+    "id": "ZLKAN4AC9Q",
+    "title": "GamePlanet",
+    "type": "school",
+    "caption": "Desktop application where you can buy games for your personal account.",
+    "description": "GamePlanet is an object oriented programming and databases course's final assignment. It's a desktop WPF application where you can create your own profile, browse games, add them to shopping cart and buy for yourself. Other users can leave comments and ratings for games.",
+    "technologies": ["C#", ".NET Framework", "XML", "MySQL"],
+    "thumbnail": "./images/gameplanet/thumbnail.png",
+    "repository": {
+      "icon": "./images/icons/github-black.png",
+      "url": "https://github.com/lehtaku/GamePlanet/blob/master/Docs/ohjelmointiloppuraportti.md"
+    },
+    "images": [
+      {
+        "original": "./images/gameplanet/img-1.png"
+      },
+      {
+        "original": "./images/gameplanet/img-2.png"
+      },
+      {
+        "original": "./images/gameplanet/img-3.png"
+      },
+      {
+        "original": "./images/gameplanet/img-4.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+html, body {
+    scroll-behavior: smooth;
+    height: 100%;
+    width: 100%;
+}
+
+.site-wrapper {
+    opacity: 0;
+}
+
+.fade-out {
+    opacity: 0;
+    transition: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Arial Rounded MT Bold", serif;
+    margin-bottom: 16px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.05rem;
+    line-height: 2.25rem;
+    color: #383838;
+}
+
+.btn-group {
+    margin-top: 24px;
+}
+
+.site-wrapper {
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+.section-heading {
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+.section-heading h1 {
+    color: #0e5b6d;
+    font-size: 3rem;
+    letter-spacing: 0.2rem;
+    font-weight: 400;
+    margin-bottom: 18px;
+}
+
+.section-heading p {
+    font-size: 1.25rem;
+    margin-bottom: 18px;
+}
